@@ -9,3 +9,13 @@ C:\Users\Иван\Downloads\weather\weather\bin\Debug\System.Net.Http.Formatting
 C:\Users\Иван\Downloads\weather\weather\obj\Debug\weather.csprojResolveAssemblyReference.cache
 C:\Users\Иван\Downloads\weather\weather\obj\Debug\weather.exe
 C:\Users\Иван\Downloads\weather\weather\obj\Debug\weather.pdb
+C:\Users\onort\project\ConsoleWeatherApi\weather\bin\Debug\weather.exe.config
+C:\Users\onort\project\ConsoleWeatherApi\weather\bin\Debug\weather.exe
+C:\Users\onort\project\ConsoleWeatherApi\weather\bin\Debug\weather.pdb
+C:\Users\onort\project\ConsoleWeatherApi\weather\bin\Debug\Newtonsoft.Json.dll
+C:\Users\onort\project\ConsoleWeatherApi\weather\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\onort\project\ConsoleWeatherApi\weather\bin\Debug\Newtonsoft.Json.xml
+C:\Users\onort\project\ConsoleWeatherApi\weather\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\onort\project\ConsoleWeatherApi\weather\obj\Debug\weather.csprojResolveAssemblyReference.cache
+C:\Users\onort\project\ConsoleWeatherApi\weather\obj\Debug\weather.exe
+C:\Users\onort\project\ConsoleWeatherApi\weather\obj\Debug\weather.pdb
